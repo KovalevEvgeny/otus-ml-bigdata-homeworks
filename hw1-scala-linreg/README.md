@@ -9,3 +9,5 @@ My solution is contained in the following files:
 * `hw1.ipynb`: I used almond Scala 2.12 kernel, Apache Spark for data processing and Breeze for constructing linear regression.
 * `plots.ipynb`: I didn't manage to create plots which I needed in Scala, so I used Python for them instead.
 * `images`: folder with plots.
+
+Link to the dataset: https://www.kaggle.com/kiranraje/prediction-facebook-comment
