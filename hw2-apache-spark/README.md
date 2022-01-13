@@ -2,7 +2,7 @@
 
 ## Apache Spark
 
-In this homework, I needed to use Apache Spark to analyze the following data: https://www.kaggle.com/sharthz23/sna-hackathon-2019-collaboration. Tasks:
+In this homework, I used Apache Spark to analyze the following data: https://www.kaggle.com/sharthz23/sna-hackathon-2019-collaboration. Tasks:
 
 1. Find most popular groups for each object type
 2. Plot histograms of popularity and activity according to daytime
